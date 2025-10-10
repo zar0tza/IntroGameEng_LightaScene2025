@@ -4631,13 +4631,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3878835979199083635, guid: cc1b88b98e24f9d4cbd96ea657055335,
         type: 3}
+      propertyPath: jumpHeight
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3878835979199083635, guid: cc1b88b98e24f9d4cbd96ea657055335,
+        type: 3}
       propertyPath: crouchInput
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3878835979199083635, guid: cc1b88b98e24f9d4cbd96ea657055335,
         type: 3}
       propertyPath: jumpEnabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3878835979199083635, guid: cc1b88b98e24f9d4cbd96ea657055335,
         type: 3}
