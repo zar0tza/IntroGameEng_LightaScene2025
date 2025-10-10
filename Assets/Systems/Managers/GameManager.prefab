@@ -952,7 +952,7 @@ MonoBehaviour:
   holdToCrouch: 1
   crouchMoveSpeed: 1.25
   walkMoveSpeed: 3
-  sprintMoveSpeed: 10
+  sprintMoveSpeed: 6
   currentMoveSpeed: 0
   sprintInput: 0
   crouchInput: 0
@@ -962,8 +962,8 @@ MonoBehaviour:
   upperLookLimit: 60
   isGrounded: 0
   gravity: 30
-  jumpHeight: 2
-  crouchTransitionDuration: 0.2
+  jumpHeight: 1
+  crouchTransitionDuration: 0.5
   crouchingHeight: 1
   crouchingCenter: {x: 0, y: 0.5, z: 0}
   crouchingCamY: 0.75

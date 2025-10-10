@@ -367,8 +367,8 @@ public class PlayerController : MonoBehaviour
     {
         isGrounded = characterController.isGrounded;
 
+      
         /*
-
 
         bool previouslyGrounded = isGrounded; // Store previous grounded state
 
@@ -396,6 +396,8 @@ public class PlayerController : MonoBehaviour
         }
 
         */
+
+       
     }
 
     private float GetMaxAllowedHeight()
