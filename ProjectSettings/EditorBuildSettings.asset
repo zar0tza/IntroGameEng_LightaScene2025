@@ -4,5 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hospital_Level.unity
+    guid: b1604b8b0931a1e40899c3a51f5e25a6
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
