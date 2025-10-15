@@ -108,6 +108,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StairWallL (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3b6ab661c51376346ae78a700f9d0782,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -186,6 +191,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StairWallL
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3b6ab661c51376346ae78a700f9d0782,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -266,6 +276,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StairWallR
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b4f78b005491f1745b9654b1d6858cd5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -344,6 +359,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StairWallR (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b4f78b005491f1745b9654b1d6858cd5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -424,6 +444,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StairCeiling (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ad27591491f84dd47aaaefe9240be2cb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -502,6 +527,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Stairs
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3b6762b76227e7a48b0c06aaf71592bc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -671,6 +701,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StairCeiling
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ad27591491f84dd47aaaefe9240be2cb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -749,6 +784,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Stairs
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3b6762b76227e7a48b0c06aaf71592bc,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

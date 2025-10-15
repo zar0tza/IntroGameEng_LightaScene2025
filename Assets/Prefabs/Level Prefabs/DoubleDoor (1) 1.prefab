@@ -17,7 +17,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1448517176985109647
 Transform:
@@ -127,7 +127,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8545451264668476009
 Transform:
@@ -237,7 +237,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8337926905447188946
 Transform:
@@ -349,7 +349,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2390511519733534149
 Transform:
@@ -451,10 +451,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 8337926905447188946}
     m_Modifications:
+    - target: {fileID: 3027463148258566835, guid: 6633d4448bb7ea9498588e929379e63b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3285722056515766176, guid: 6633d4448bb7ea9498588e929379e63b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3559258864877838587, guid: 6633d4448bb7ea9498588e929379e63b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7217502082835013299, guid: 6633d4448bb7ea9498588e929379e63b,
         type: 3}
       propertyPath: m_Name
       value: ExitSign (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7217502082835013299, guid: 6633d4448bb7ea9498588e929379e63b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8026091058279842825, guid: 6633d4448bb7ea9498588e929379e63b,
         type: 3}
@@ -540,10 +560,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 8337926905447188946}
     m_Modifications:
+    - target: {fileID: 3027463148258566835, guid: 6633d4448bb7ea9498588e929379e63b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3285722056515766176, guid: 6633d4448bb7ea9498588e929379e63b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3559258864877838587, guid: 6633d4448bb7ea9498588e929379e63b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7217502082835013299, guid: 6633d4448bb7ea9498588e929379e63b,
         type: 3}
       propertyPath: m_Name
       value: ExitSign
+      objectReference: {fileID: 0}
+    - target: {fileID: 7217502082835013299, guid: 6633d4448bb7ea9498588e929379e63b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8026091058279842825, guid: 6633d4448bb7ea9498588e929379e63b,
         type: 3}
