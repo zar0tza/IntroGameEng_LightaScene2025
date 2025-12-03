@@ -14,7 +14,6 @@ public class Trigger3Play : MonoBehaviour
     void Start()
     {
         timeline.GetComponent<PlayableDirector>().enabled = false;
-        animator.GetComponent<Animator>().enabled = false;
     }
 
     void OnTriggerEnter(Collider other)

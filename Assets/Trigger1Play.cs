@@ -13,7 +13,7 @@ public class Trigger1Play : MonoBehaviour
 
     void Start()
     {
-        timeline.GetComponent<PlayableDirector>().enabled = false;
+        timeline.GetComponent<PlayableDirector>().enabled = true;
         animator.GetComponent<Animator>().enabled = false;
     }
 
@@ -22,6 +22,6 @@ public class Trigger1Play : MonoBehaviour
          timeline.Play();
          timeline.GetComponent<PlayableDirector>().enabled = true;
          animator.GetComponent<Animator>().enabled = true;
-         Destroy(gameObject, 1f);
+         
     }    
 }
