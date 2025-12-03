@@ -5,7 +5,7 @@ using UnityEngine.Animations;
 using UnityEngine.EventSystems;
 using UnityEngine.Timeline;
 
-public class Trigger1Play : MonoBehaviour
+public class Trigger4Play : MonoBehaviour
 {
     public PlayableDirector timeline;
     public Animator animator;
@@ -13,7 +13,7 @@ public class Trigger1Play : MonoBehaviour
 
     void Start()
     {
-        timeline.GetComponent<PlayableDirector>().enabled = true;
+        timeline.GetComponent<PlayableDirector>().enabled = false;
         animator.GetComponent<Animator>().enabled = false;
     }
 
@@ -22,11 +22,5 @@ public class Trigger1Play : MonoBehaviour
         timeline.GetComponent<PlayableDirector>().enabled = true;
         animator.GetComponent<Animator>().enabled = true;
         timeline.Play();
-
-    }
-
-    void OnTriggerExit(Collider other)
-    {
-        gameObject.GetComponent<Collider>().enabled = false;
     }
 }

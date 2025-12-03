@@ -6,6 +6,10 @@ TagManager:
   tags:
   - CameraRoot
   - Timeline
+  - Trigger1
+  - Trigger2
+  - Trigger3
+  - Trigger4
   layers:
   - Default
   - TransparentFX
